@@ -1,5 +1,3 @@
-'use strict';
-
 $(document).ready(function(){
     var start_id = window.location.hash.substring(1);
 
