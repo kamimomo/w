@@ -1,9 +1,3 @@
-'use strict';
-
-const toggleBtn = document.querySelector('.nav-toggle-menu');
-const menu = document.querySelector('.nav-menu');
-const link = document.querySelector('.nav-link');
-
 $(document).ready(function(){
     var start_id = window.location.hash.substring(1);
 
